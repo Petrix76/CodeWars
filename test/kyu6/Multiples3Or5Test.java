@@ -3,10 +3,6 @@ package kyu6;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author Petr
- */
 public class Multiples3Or5Test {
     
     @Test
