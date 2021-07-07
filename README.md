@@ -1,1 +1,1 @@
-# Code practice
+# https://www.codewars.com/users/Petrix76
